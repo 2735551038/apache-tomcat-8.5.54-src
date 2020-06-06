@@ -80,7 +80,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
 
 ### Debug Configuration
 
-####JVM Options
+#### JVM Options
 
 -Dcatalina.home=G:/opensource/apache-tomcat-8.5.54-src
 -Dcatalina.base=G:/opensource/apache-tomcat-8.5.54-src
