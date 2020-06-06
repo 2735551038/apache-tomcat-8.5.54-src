@@ -78,9 +78,14 @@ instructions for reporting a bug
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for more info.
 
-### JVM Option
+### Debug Configuration
+
+####JVM Options
 
 -Dcatalina.home=G:/opensource/apache-tomcat-8.5.54-src
 -Dcatalina.base=G:/opensource/apache-tomcat-8.5.54-src
 -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
 -Djava.util.logging.config.file=G:/opensource/apache-tomcat-8.5.54-src/conf/logging.properties
+
+#### Main class
+org.apache.catalina.startup.Bootstrap
